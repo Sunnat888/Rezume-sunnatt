@@ -1,0 +1,2 @@
+# Rezume-sunnatt
+rezume-repozitoris
